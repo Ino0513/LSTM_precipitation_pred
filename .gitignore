@@ -1,0 +1,7 @@
+seq_data/seq_train1_ASOS.npy
+seq_data/refined_seq_data_add_AWS.npy
+seq_data/seq_train1_add_AWS.npy
+seq_data/refined_seq_data_ASOS.npy
+seq_data/seq_test_20_add_AWS.npy
+seq_data/seq_test_21_add_AWS.npy
+seq_data/seq_test_22_add_AWS.npy
